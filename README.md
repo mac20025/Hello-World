@@ -4,8 +4,6 @@ A simple HelloWorld Python program
 
 I've created this software to demonstrate how a simple HelloWorld software works in Python.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 For this software, I used:
